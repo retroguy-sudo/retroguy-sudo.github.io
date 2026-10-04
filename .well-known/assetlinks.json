@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "pl.retroiq.test",
+      "sha256_cert_fingerprints": [
+        "DD:92:B1:8E:3B:D6:25:41:A8:0B:C0:C8:26:37:6C:7D:4E:D0:86:73:B6:87:02:4B:F7:C9:FE:A7:86:5C:A1:FB"
+      ]
+    }
+  }
+]
